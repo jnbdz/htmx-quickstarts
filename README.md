@@ -1,2 +1,2 @@
-# htmx-quickstarts
+# 🍔❎ HTMX | Quickstarts 🍔❎
 HTMX | Quickstarts
